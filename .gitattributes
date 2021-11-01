@@ -1,2 +1,2 @@
-API_Google_Key_Words/bin/Debug/net5.0/runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so filter=lfs diff=lfs merge=lfs -text
+*.so
 *.so filter=lfs diff=lfs merge=lfs -text
